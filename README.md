@@ -1,3 +1,5 @@
+**INSTALL GIT TO CLONE**
+
 This repo contains Linux scripts I use when I setup Debian-based distros.
 
 Software installs include:
