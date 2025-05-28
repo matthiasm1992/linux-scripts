@@ -2,7 +2,7 @@
 
 This repo contains Linux scripts I use when I setup Debian-based distros.
 
-Software installs include:
+Ubuntu installs include:
 - Firefox (PPA)
 - Appimagelauncher
 - Flatpak
@@ -14,3 +14,6 @@ Software installs include:
 - Vim
 - Gnome Tweaks
 - Extension Manager
+
+Fedora installs include:
+- TBC
